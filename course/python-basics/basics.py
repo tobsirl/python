@@ -1,6 +1,16 @@
-print("Hello World!")
-print('message')
+# Fundamental Data Types
+int
+float
+bool
+str
+list
+tuple
+set
+dict
 
+# Classes -> custom types
 
-def test_to_see(num):
-    return num
+# Specialized Data Types using modules
+
+# Nothing 
+None
