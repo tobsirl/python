@@ -14,3 +14,12 @@ dict
 
 # Nothing 
 None
+
+# integers -> whole numbers
+print(2 + 4)
+print(2 - 4)
+print(2 * 4)
+print(2 / 4)
+
+# type
+print(type(2 + 4)) # <class 'int>
